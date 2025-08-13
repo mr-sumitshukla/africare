@@ -1,2 +1,0 @@
-# africare
-hospital
